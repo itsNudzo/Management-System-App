@@ -1,0 +1,33 @@
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\NK Mladost Management System.exe
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\NK Mladost Management System.deps.json
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\NK Mladost Management System.runtimeconfig.json
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\NK Mladost Management System.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\NK Mladost Management System.pdb
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.csproj.AssemblyReference.cache
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Intro.resources
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Properties.Resources.resources
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.csproj.GenerateResource.cache
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.AssemblyInfoInputs.cache
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.AssemblyInfo.cs
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.csproj.CoreCompileInputs.cache
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.csproj.CopyComplete
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\refint\NK Mladost Management System.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.pdb
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK Mladost Management System.genruntimeconfig.cache
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\ref\NK Mladost Management System.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Forms.Footballer.resources
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Forms.Home.resources
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Forms.Login.resources
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Forms.ViewFootballer.resources
+C:\Users\NUDZEJM DELANOVIC\source\repos\NK Mladost Management System\NK Mladost Management System\obj\Debug\net6.0-windows\NK_Mladost_Management_System.Forms.Salary.resources
